@@ -4,7 +4,7 @@ $(function(){
 	// ! init
 	// ----------------------------------------
 
-	var theFirstTitle = $('#simpleSlide	.slide-inner a img').first().attr('alt');
+	var theFirstTitle = $('#simpleSlide .slide-inner a img').first().attr('alt');
 	$('.slide-title').html(theFirstTitle);
 
 	// ----------------------------------------
