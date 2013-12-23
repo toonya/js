@@ -1,4 +1,4 @@
 js
 ==
 
-Publick Javascript
+Public Javascript
